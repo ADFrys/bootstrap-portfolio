@@ -1,0 +1,32 @@
+
+
+.jumbotron {
+	background-image: url("../images/wall4.png");
+	padding-left: 30px;
+	color: #035a7a;
+}
+
+h1, h2 {
+	color: #035a7a;
+}
+
+.media-object {
+	width: 100%;
+}
+
+.media-body {
+	width: 100%;
+}
+
+.media-body p {
+	line-height: 2;
+}
+
+.panel-body {
+	text-align: center;
+}
+
+
+body {
+	padding-bottom: 70px;
+}
