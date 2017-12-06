@@ -10,8 +10,31 @@ h1, h2 {
 	color: #035a7a;
 }
 
-.media-object {
+.media h5 {
+	background-color: #4aaaa5;
+	padding: 15px 0 5px 15px;
+	color: #ffffff;
+	bottom: 0;
+	text-align: center; 
+	line-height: 2;
+	text-decoration: none;
+	z-index: 2;
+	position: absolute;
+	width: 85%;
+}
+
+.media a {
+	text-decoration: none;
+}
+
+.media img {
 	width: 100%;
+	margin-bottom: 10px;
+}
+
+.portfolio img {
+	width: 100%;
+	border: 5px solid #4aaaa5;
 }
 
 .media-body {
