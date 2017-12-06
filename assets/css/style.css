@@ -30,3 +30,18 @@ h1, h2 {
 body {
 	padding-bottom: 70px;
 }
+
+@media screen and (max-width: 980px) {
+
+	textarea {
+		width: 95%;
+	}
+}
+
+@media screen and (max-width: 768px) {
+
+	textarea {
+		width: 95%;
+	}
+
+}
